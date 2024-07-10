@@ -1,3 +1,12 @@
+# Data Cleaning and Transformation in the Python script
+
+# 1. Data Preparation:
+# Loading Data: The dataset was loaded into the notebook and the structure of the first few rows was examined to understand the data.
+# Initial Cleaning: Preliminary cleaning steps were performed, including type conversion and handling of missing values as per the steps outlined in the Python script.
+
+# 2. Data Exploration:
+# Visualization: Various techniques such as bar charts, line graphs, and scatter plots were used to visualize data, identify trends, and understand patterns.
+# Statistical Analysis: Statistical methods were employed to explore relationships between variables, such as correlation analysis and hypothesis testing.
 
 # In[1]:
 
